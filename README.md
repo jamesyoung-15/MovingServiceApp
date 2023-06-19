@@ -26,7 +26,7 @@
 			- **Notification Service:** To send notifications to users, typically through email or push notifications.
 			- **Tracking Engine:** This will constantly watch for changes in the DB, update the elastic search index, and notify the messaging queue.
 
-	- ![saas_example.jpg](../assets/saas_example_1687178482052_0.jpg)
+	- ![saas_example.jpg](./saas_example.jpg)
 		- An example architecture from a solo dev on Reddit
 		- His archeticture:
 			- Amplify - host the application written in react w/ typescript, next and tailwinds
